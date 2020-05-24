@@ -42,10 +42,12 @@ LEFEVRE Rémi
 
 ---
 
-### Un vidéo du mouvement d’un kangourou
+### Une vidéo du mouvement d’un kangourou
+
 <video controls width="1000">
 <source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
 </video>
+
 ---
 
 ### Trackage vidéo : Modélisation du mouvement
