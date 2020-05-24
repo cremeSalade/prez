@@ -1,5 +1,5 @@
 ---
-theme : "beige"
+theme : "night"
 transition: "slide"
 highlightTheme: "monokai"
 logoImg: "gsi.png"
