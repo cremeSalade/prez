@@ -9,16 +9,79 @@ title: "VSCode Reveal intro"
 ---
 
 
-# CAO Première année
-## le kangougroup
+### CAO Première année
+#### le Kangougroup
 
 Machine mouvante, biomimétisme animal
 
-<small>Alexis, Till, Rémi, Jessy et Rémi L</small>
+<p style="font-size : 12pt">
+KRIEGER Till,
+LAURENT Alexis,
+PARMANTIER Rémi,
+THIOMBIANO Jessy,
+LEFEVRE Rémi
+</p>
 
 ---
 
-## Le modèle en 3D
+### Sommaire
+
+1. description du mouvement biologique
+2. Les modélisations et le mécanisme
+3. Le design final
+4. Un exemple industriel de Festo
+
+
+---
+
+### Le mouvement - le point de vue biologique
+
+---
+
+### Un vidéo du mouvement d’un kangourou
+
+---
+
+### Trackage vidéo : Modélisation du mouvement
+
+<img data-src="tracker.png"/>
+
+---
+
+### La phase de recherche - notre premier essai
+
+---
+
+### La phase de recherche - notre deuxième essai
+
+
+---
+
+### La phase de recherche - notre troisième essai
+
+---
+
+### Première modélisation - SolidWorks
+
+<video controls width="1000">
+
+<source data="pmode.mp4" type="video/mp4">
+
+</video>
+
+---
+
+### La maquette complète sur Blender
+
+---
+
+### Simulation du mouvement complet
+
+
+
+---
+
+## Le design final
 
 Nous avons fait un modèle en 3d
 
@@ -37,3 +100,35 @@ Nous avons fait un modèle en 3d
 
 
 ---
+
+### Le kangourou de Festo -  un exemple de l’industrie
+
+---
+
+### Le mécanisme de mouvement développé par Festo
+
+---
+
+### Le résultat de Festo
+
+---
+
+### Merci beaucoup pour votre attention !
+
+- KRIEGER Till
+- LAURENT Alexis
+- LEFEVRE Rémi
+- PARMANTIER Rémi
+- THIOMBIANO Jessy
+
+
+---
+
+### Sources
+
+Image1: https://i.pinimg.com/originals/53/2d/30/532d308e54a0a7f4c2103c5618aa0119.gif
+
+Image2: https://c8.alamy.com/compde/t806nr/kangaroo-fortbewegung-t806nr.jpg
+
+Image de Festo: https://www.festo.com/PDF_Flip/corp/Festo_BionicKangaroo/de/files/assets/basic-html/page-4.html
+
