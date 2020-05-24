@@ -15,6 +15,8 @@ title: "Kangougroup"
 
 Machine mouvante, biomimétisme animal
 
+
+
 <p style="font-size : 12pt">
 KRIEGER Till,
 LAURENT Alexis,
