@@ -65,7 +65,7 @@ LEFEVRE Rémi
 
 <video controls width="1000">
 
-<source data="pmode.mp4" type="video/mp4">
+<source src="https://cdn.discordapp.com/attachments/690504258478669845/710225277996892190/Bhn6kd8yib_4.mp4" type="video/mp4">
 
 </video>
 
