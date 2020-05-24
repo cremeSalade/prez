@@ -28,7 +28,7 @@ LEFEVRE Rémi
 ---
 
 
-<img data-src="poster.jpg" height="800"/>
+<img data-src="poster.jpg" height="500"/>
 
 
 ---
