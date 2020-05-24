@@ -4,10 +4,11 @@ transition: "slide"
 highlightTheme: "monokai"
 logoImg: "gsi.png"
 slideNumber: true
-title: "VSCode Reveal intro"
+title: "Kangougroup"
 
 ---
 
+<img data-src="k.png" height="300"/>
 
 ### CAO Première année
 #### le Kangougroup
@@ -24,6 +25,12 @@ LEFEVRE Rémi
 
 ---
 
+
+<img data-src="poster.jpg" height="800"/>
+
+
+---
+
 ### Sommaire
 
 1. description du mouvement biologique
@@ -35,6 +42,9 @@ LEFEVRE Rémi
 ---
 
 ## 1. description du mouvement biologique
+
+<img data-src="mouv.png" height="300"/>
+
 
 ---
 
