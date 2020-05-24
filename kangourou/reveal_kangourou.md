@@ -45,23 +45,20 @@ LEFEVRE Rémi
 
 ## 1. description du mouvement biologique
 
-<img data-src="mouv.png" height="300"/>
-
 
 ---
 
 #### Le mouvement - le point de vue biologique
 
-<video controls height="500">
-<source src="https://cremesalade.github.io/prez/kangourou/k1.mp4" type="video/mp4">
-</video>
+<img data-src="mouv.png" height="300"/>
+
 
 ---
 
 #### Une vidéo du mouvement d’un kangourou
 
 <video controls height="500">
-<source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
+<source src="https://cremesalade.github.io/prez/kangourou/k1.mp4" type="video/mp4">
 </video>
 
 ---
@@ -75,7 +72,7 @@ LEFEVRE Rémi
 #### Méthode de trackage
 
 <video controls height="500">
-<source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
+<source src="https://cremesalade.github.io/prez/kangourou/tr.mp4" type="video/mp4">
 </video>
 
 ---
