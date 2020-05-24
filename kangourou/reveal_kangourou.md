@@ -89,7 +89,12 @@ LEFEVRE Rémi
 
 #### La phase de recherche - notre troisième essai
 
-<img data-src="e3.png" height="500"/>
+<img data-src="e32.png" height="500"/>
+
+---
+
+<img data-src="e31.png" height="500"/>
+
 
 ---
 
@@ -103,7 +108,7 @@ LEFEVRE Rémi
 
 #### La maquette complète sur Blender
 
-<img data-src="maquette.png"/>
+<img data-src="maquette.png" height="500"/>
 
 ---
 
