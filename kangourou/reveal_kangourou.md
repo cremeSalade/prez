@@ -36,15 +36,29 @@ LEFEVRE Rémi
 
 ### Le mouvement - le point de vue biologique
 
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/k1.mp4" type="video/mp4">
+</video>
+
 ---
 
 ### Un vidéo du mouvement d’un kangourou
-
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
+</video>
 ---
 
 ### Trackage vidéo : Modélisation du mouvement
 
 <img data-src="tracker.png"/>
+
+---
+
+#### Méthode de trackage
+
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -64,9 +78,7 @@ LEFEVRE Rémi
 ### Première modélisation - SolidWorks
 
 <video controls width="1000">
-
-<source src="https://cdn.discordapp.com/attachments/690504258478669845/710225277996892190/Bhn6kd8yib_4.mp4" type="video/mp4">
-
+<source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
 </video>
 
 ---
@@ -75,15 +87,34 @@ LEFEVRE Rémi
 
 ---
 
-### Simulation du mouvement complet
+#### Simulation 1
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/m1.mp4" type="video/mp4">
+</video>
+---
 
+#### Simulation 2
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/m2.mp4" type="video/mp4">
+</video>
+---
 
+#### Simulation 3
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/m3.mp4" type="video/mp4">
+</video>
+---
+
+#### Simulation du mouvement complet
+<video controls width="1000">
+<source src="https://cremesalade.github.io/prez/kangourou/m4.mp4" type="video/mp4">
+</video>
 
 ---
 
 ## Le design final
 
-Nous avons fait un modèle en 3d
+Voici le modèle en 3d
 
 
 ---
