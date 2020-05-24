@@ -34,7 +34,11 @@ LEFEVRE Rémi
 
 ---
 
-### Le mouvement - le point de vue biologique
+## 1. description du mouvement biologique
+
+---
+
+#### Le mouvement - le point de vue biologique
 
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/k1.mp4" type="video/mp4">
@@ -42,7 +46,7 @@ LEFEVRE Rémi
 
 ---
 
-### Une vidéo du mouvement d’un kangourou
+#### Une vidéo du mouvement d’un kangourou
 
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
@@ -50,7 +54,7 @@ LEFEVRE Rémi
 
 ---
 
-### Trackage vidéo : Modélisation du mouvement
+#### Trackage vidéo : Modélisation du mouvement
 
 <img data-src="tracker.png" height="500"/>
 
@@ -64,27 +68,32 @@ LEFEVRE Rémi
 
 ---
 
-### La phase de recherche - notre premier essai
+
+## Les modélisations et le mécanisme
+
+---
+
+#### La phase de recherche - notre premier essai
 
 <img data-src="e1.png" height="500"/>
 
 
 ---
 
-### La phase de recherche - notre deuxième essai
+#### La phase de recherche - notre deuxième essai
 
 <img data-src="e2.png" height="500"/>
 
 
 ---
 
-### La phase de recherche - notre troisième essai
+#### La phase de recherche - notre troisième essai
 
 <img data-src="e3.png" height="500"/>
 
 ---
 
-### Première modélisation - SolidWorks
+#### Première modélisation - SolidWorks
 
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/pmode.mp4" type="video/mp4">
@@ -92,38 +101,42 @@ LEFEVRE Rémi
 
 ---
 
-### La maquette complète sur Blender
+#### La maquette complète sur Blender
 
 <img data-src="maquette.png"/>
 
 ---
 
 #### Simulation 1
+
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/m1.mp4" type="video/mp4">
 </video>
 ---
 
 #### Simulation 2
+
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/m2.mp4" type="video/mp4">
 </video>
 ---
 
 #### Simulation 3
+
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/m3.mp4" type="video/mp4">
 </video>
 ---
 
 #### Simulation du mouvement complet
+
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/m4.mp4" type="video/mp4">
 </video>
 
 ---
 
-## Le design final
+## 3. Le design final
 
 Voici le modèle en 3d
 
@@ -141,7 +154,7 @@ Voici le modèle en 3d
 
 ---
 
-## Le modèle de Festo
+## 4. Le modèle de Festo
 
 Une entreprise de robotique
 
