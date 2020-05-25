@@ -14,15 +14,19 @@
             function init(){
                 scene = new THREE.Scene();
                 scene.background = new THREE.Color(0x000000, 0);
+                
+
 
                 camera = new THREE.PerspectiveCamera(60, window.innerWidth/window.innerHeight,1,5000);
                 camera.position.set(0,25,25);
 
                 scene.add(new THREE.AxesHelper(500));
 
-                renderer = new THREE.WebGLRenderer( { alpha: true } );
+                renderer = new THREE.WebGLRenderer( { alpha: true, antialias : true } );
                 renderer.setSize(window.innerWidth * 0.95, window.innerHeight * 0.95);
                 document.body.appendChild(renderer.domElement);
+
+                renderer.setClearColor( 0x000000, 0 );
 
                 controls = new THREE.OrbitControls(camera, renderer.domElement);
 
