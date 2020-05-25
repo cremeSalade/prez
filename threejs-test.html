@@ -18,18 +18,36 @@
             let scene, camera, renderer, controls;
             function init(){
                 scene = new THREE.Scene();
-                //scene.background = new THREE.Color(0xdddddd);
+                scene.background = new THREE.Color(0x333333);
 
                 camera = new THREE.PerspectiveCamera(60, window.innerWidth/window.innerHeight,1,5000);
                 camera.position.set(0,25,25);
 
                 scene.add(new THREE.AxesHelper(500));
 
-                renderer = new THREE.WebGLRenderer( { alpha: true, antialias : true } );
+                renderer = new THREE.WebGLRenderer( { alpha: false, antialias : true } );
                 renderer.setSize(window.innerWidth , window.innerHeight );
                 document.body.appendChild(renderer.domElement);
 
                 controls = new THREE.OrbitControls(camera, renderer.domElement);
+                
+                hlight = new THREE.AmbientLight (0x404040);
+                scene.add(hlight);
+                directionalLight = new THREE.DirectionalLight(0xffffff,0.5);
+                directionalLight.position.set(1,1,1);
+                directionalLight.castShadow = true;
+                scene.add(directionalLight);
+
+
+                var geometry = new THREE.BoxGeometry( 5, 5, 5 );
+                var material = new THREE.MeshPhongMaterial( {
+					color: 0xa0adaf,
+					shininess: 10,
+					specular: 0x111111
+				} );
+                var cube = new THREE.Mesh( geometry, material );
+                scene.add( cube );
+
 
 
                 animate();
