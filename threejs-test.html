@@ -21,7 +21,7 @@
                 scene.add(new THREE.AxesHelper(500));
 
                 renderer = new THREE.WebGLRenderer( { alpha: true } );
-                renderer.setSize(window.innerWidth, window.innerHeight);
+                renderer.setSize(window.innerWidth * 0.95, window.innerHeight * 0.95);
                 document.body.appendChild(renderer.domElement);
 
                 controls = new THREE.OrbitControls(camera, renderer.domElement);
