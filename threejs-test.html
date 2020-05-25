@@ -4,7 +4,12 @@
         <meta charset="UTF-8" />
         
     </head>
-    <body>
+    <body style="
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        overflow: hidden;
+      ">
         <script src="three.min.js" ></script>
         <script src="OrbitControls.js" ></script>
         <script src="GLTFLoader.js" ></script>
@@ -14,13 +19,13 @@
             function init(){
                 scene = new THREE.Scene();
                 scene.background = new THREE.Color(0xdddddd);
-                
+
                 camera = new THREE.PerspectiveCamera(60, window.innerWidth/window.innerHeight,1,5000);
                 camera.position.set(0,25,25);
 
                 scene.add(new THREE.AxesHelper(500));
 
-                renderer = new THREE.WebGLRenderer( { alpha: false, antialias : true } );
+                renderer = new THREE.WebGLRenderer( { alpha: true, antialias : true } );
                 renderer.setSize(window.innerWidth , window.innerHeight );
                 document.body.appendChild(renderer.domElement);
 
