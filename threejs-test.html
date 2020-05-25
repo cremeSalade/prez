@@ -22,7 +22,7 @@
 
                 scene.add(new THREE.AxesHelper(500));
 
-                renderer = new THREE.WebGLRenderer( { alpha: true, antialias : true } );
+                renderer = new THREE.WebGLRenderer( { alpha: false, antialias : true } );
                 renderer.setSize(window.innerWidth , window.innerHeight );
                 document.body.appendChild(renderer.domElement);
 
