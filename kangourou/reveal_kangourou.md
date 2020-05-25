@@ -27,8 +27,7 @@ LEFEVRE Rémi
 
 ---
 
-
-<img data-src="poster.jpg" height="500"/>
+<!-- .slide: data-background="poster.jpg" data-background-repeat="single" data-background-size="300pt" -->
 
 
 ---
@@ -36,14 +35,17 @@ LEFEVRE Rémi
 ### Sommaire
 
 1. description du mouvement biologique
-2. Les modélisations et le mécanisme
-3. Le design final
-4. Un exemple industriel de Festo
+2. Un exemple industriel de Festo
+3. Les modélisations et le mécanisme
+4. Le design final
 
 
 ---
 
+
+
 ## 1. description du mouvement biologique
+
 
 
 ---
@@ -78,7 +80,38 @@ LEFEVRE Rémi
 ---
 
 
-## Les modélisations et le mécanisme
+
+## 2. Le modèle de Festo
+
+Une entreprise de robotique
+
+
+
+---
+
+### Le kangourou de Festo -  un exemple de l’industrie
+
+<img data-src="exemple.png" height="500"/>
+
+---
+
+### Le mécanisme de mouvement développé par Festo
+
+<img data-src="festo_meca.png" height="500"/>
+
+---
+
+### Le résultat de Festo
+
+<img data-src="festo_result.png" height="500"/>
+
+---
+
+
+
+## 3. Les modélisations et le mécanisme
+
+
 
 ---
 
@@ -150,9 +183,12 @@ LEFEVRE Rémi
 
 ---
 
-## 3. Le design final
+
+
+## 4. Le design final
 
 Voici le modèle en 3d
+
 
 
 ---
@@ -168,29 +204,6 @@ Voici le modèle en 3d
 
 ---
 
-## 4. Le modèle de Festo
-
-Une entreprise de robotique
-
----
-
-### Le kangourou de Festo -  un exemple de l’industrie
-
-<img data-src="exemple.png" height="500"/>
-
----
-
-### Le mécanisme de mouvement développé par Festo
-
-<img data-src="festo_meca.png" height="500"/>
-
----
-
-### Le résultat de Festo
-
-<img data-src="festo_result.png" height="500"/>
-
----
 
 ### Merci beaucoup pour votre attention !
 
