@@ -224,3 +224,15 @@ Image2: https://c8.alamy.com/compde/t806nr/kangaroo-fortbewegung-t806nr.jpg
 
 Image de Festo: https://www.festo.com/PDF_Flip/corp/Festo_BionicKangaroo/de/files/assets/basic-html/page-4.html
 
+
+---
+
+### FIN !
+
+---
+
+
+
+<!-- .slide: data-background-iframe = https://cremesalade.github.io/prez/threejs-test.html data-background-repeat="single" data-background-size="300pt" -->
+
+
