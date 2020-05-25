@@ -233,6 +233,6 @@ Image de Festo: https://www.festo.com/PDF_Flip/corp/Festo_BionicKangaroo/de/file
 
 
 
-<!-- .slide: data-background-iframe = https://cremesalade.github.io/prez/threejs-test.html data-background-repeat="single" data-background-size="300pt" -->
+<!-- .slide: data-background-iframe = https://cremesalade.github.io/prez/threejs-test.html -->
 
 
