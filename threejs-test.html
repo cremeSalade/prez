@@ -38,17 +38,22 @@
                 directionalLight.castShadow = true;
                 scene.add(directionalLight);
 
-
+/*
                 var geometry = new THREE.BoxGeometry( 5, 5, 5 );
                 var material = new THREE.MeshPhongMaterial( {
 					color: 0xa0adaf,
 					shininess: 10,
 					specular: 0x111111
 				} );
-                var cube = new THREE.Mesh( geometry, material );
+                var cube = new THREE.Mesh( geometry,material );
                 scene.add( cube );
+*/
+                new THREE.GLTFLoader().load('test_robot.gltf', result => { 
+                model = result.scene.children[0]; 
+                scene.add(model);
+                });
 
-
+                
 
                 animate();
             }
