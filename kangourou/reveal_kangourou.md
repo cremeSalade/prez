@@ -65,17 +65,18 @@ LEFEVRE Rémi
 
 ---
 
+#### Trackage vidéo : Modélisation du mouvement
+
+<img data-src="tracker.png" height="500"/>
+
+---
+
 #### Méthode de trackage
 
 <video controls height="500">
 <source src="https://cremesalade.github.io/prez/kangourou/tr.mp4" type="video/mp4">
 </video>
 
----
-
-#### Trackage vidéo : Modélisation du mouvement
-
-<img data-src="tracker.png" height="500"/>
 
 ---
 
