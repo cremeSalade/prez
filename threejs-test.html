@@ -50,10 +50,16 @@
 */
                 new THREE.GLTFLoader().load('test_robot.gltf', result => { 
                 model = result.scene.children[0]; 
+                model.position.set(5,0,5);
                 scene.add(model);
                 });
-
-                
+/*
+                new THREE.GLTFLoader().load('kangaroo9.gltf', result => { 
+                result.scene.children.forEach(element => {
+                    scene.add(element);
+                });
+                });
+*/                
 
                 animate();
             }
