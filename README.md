@@ -1,15 +1,13 @@
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Git pour mes présentations
 
-- Bulleted
-- List
+Dans ces dossiers se trouvent des présentations reveal.js avec leurs sources.
 
-1. Numbered
-2. List
+## Projet Kangougroupe
 
-**Bold** and _Italic_ and `Code` text
+Ce projet à été réalisé dans le cadre d'un cours de CAO à l'ENSGSI. Le but était de faire un robot en utilisant le biomimétisme.
 
-[Link](url) and ![Image](src)
+[Lien de la présentation](https://cremesalade.github.io/prez/kangourou/export/index.html)
+
+
+
