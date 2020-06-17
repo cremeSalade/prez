@@ -8,7 +8,7 @@ title: "Imprimante Étain ☺"
 
 ---
 
-## test
+### test
 
 ![test](2020-06-17-12-51-01.png =500x)
 
@@ -22,14 +22,14 @@ title: "Imprimante Étain ☺"
 
 ---
 
-## Présentation du projet et demande des industriels
+### Présentation du projet et demande des industriels
 
 ![](2020-06-17-13-14-12.png)
 
 
 ---
 
-## Problématisation
+### Problématisation
 
 ![](2020-06-17-13-17-00.png)
 
@@ -40,7 +40,7 @@ title: "Imprimante Étain ☺"
 
 ---
 
-## Planification du projet
+### Planification du projet
 
 
 ![](2020-06-17-13-25-16.png)
@@ -48,7 +48,7 @@ title: "Imprimante Étain ☺"
 
 ---
 
-## Choix des composants
+### Choix des composants
 
 ![](2020-06-17-13-26-16.png)
 
@@ -56,21 +56,21 @@ title: "Imprimante Étain ☺"
 
 ---
 
-## Assemblage
+### Assemblage
 
 ![](2020-06-17-13-29-09.png)
 
 
 ---
 
-## Analyse et résultats
+### Analyse et résultats
 
 ![](2020-06-17-13-32-03.png)
 
 ---
 
 
-## Résultats intermédiaires
+### Résultats intermédiaires
  - Tests  des supports
  - Tests de dépôt
  - Tension superficielle
@@ -84,31 +84,41 @@ title: "Imprimante Étain ☺"
 ---
 
 
-## L'imprimante de loritz
+### L'imprimante de loritz
 
 ![](2020-06-17-13-33-42.png)
 
 ---
 
-## Model 3D
+### Model 3D
 
 
 
 ---
 
-## Simulation de mécanique des fluides
-
-
+### Simulation de mécanique des fluides
 
 ---
 
-## Conclusion et perspectives  
+<video controls height="500">
+<source src="https://cremesalade.github.io/prez/imprimante/s1.mp4" type="video/mp4">
+</video>
+
+---
+
+<video controls height="500">
+<source src="https://cremesalade.github.io/prez/imprimante/s2.mp4" type="video/mp4">
+</video>
+
+---
+
+### Conclusion et perspectives  
 
 ![](2020-06-17-13-42-34.png)
 
 ---
 
-## Retours d'expériences
+### Retours d'expériences
 
 ---
 
