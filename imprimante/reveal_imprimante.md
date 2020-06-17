@@ -77,12 +77,11 @@ title: "Imprimante Étain ☺"
  - Tests sur le chariot
 
 
-
 ---
 
+<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/chariot293_1_light.gltf" -->
 
-
-
+---
 
 
 ## L'imprimante de loritz
