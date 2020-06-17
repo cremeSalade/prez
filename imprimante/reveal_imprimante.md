@@ -5,15 +5,8 @@ highlightTheme: "monokai"
 logoImg: "gsi.png"
 slideNumber: true
 title: "Imprimante Étain ☺"
-
+preloadIframes: true
 ---
-
-### test
-
-![test](2020-06-17-12-51-01.png =500x)
-
----
-
 
 ## Soutenance finale
 ### groupe imprimante étain
