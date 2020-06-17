@@ -90,9 +90,11 @@ title: "Imprimante Étain ☺"
 
 ---
 
-### Model 3D
+### Modèle 3D
 
+---
 
+<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/printer.gltf" -->
 
 ---
 
