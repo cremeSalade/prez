@@ -100,13 +100,17 @@ title: "Imprimante Étain ☺"
 
 ---
 
-<video controls height="500">
+#### Débit fort
+
+<video controls loop height="500">
 <source src="https://cremesalade.github.io/prez/imprimante/s1.mp4" type="video/mp4">
 </video>
 
 ---
 
-<video controls height="500">
+#### Débit résonnable
+
+<video controls loop height="500">
 <source src="https://cremesalade.github.io/prez/imprimante/s2.mp4" type="video/mp4">
 </video>
 
