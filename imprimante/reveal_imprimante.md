@@ -144,18 +144,19 @@ Tuteur Industriel : David Horwat
 
 --
 
-### Test des supports
-
-![](2020-06-19-11-55-08.png)
-
---
-
 ### Tests de dépôt
 
 ![](2020-06-17-13-32-03.png =800x)
 
 
 --
+
+### Test des supports
+
+![](2020-06-19-11-55-08.png)
+
+--
+
 
 ### Tension superficielle
 
