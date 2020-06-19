@@ -50,6 +50,7 @@ Contexte du projet
 ---
 
 ## Problématisation
+![](2020-06-19-10-16-15.png =800x)
 
 ---
 
