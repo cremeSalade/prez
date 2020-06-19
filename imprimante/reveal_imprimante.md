@@ -50,32 +50,50 @@ Contexte du projet
 ---
 
 ## Problématisation
-![](2020-06-19-10-16-15.png =800x)
+
 
 ---
 
 ### Analyse de l'existant
 
+
 ---
 
 ### Bibliographie
-
+![](2020-06-19-10-49-26.png)
 
 ---
 
 ### Chassis de l'imprimante
+![](2020-06-19-10-40-48.png)
+
+---
+
+### Contraintes du projet
+![](2020-06-17-13-17-00.png)
 
 
 ---
 
-![](2020-06-17-13-17-00.png)
+### Contraintes de l'étain
+![](2020-06-19-10-38-07.png)
 
+
+---
+
+## Formulation
 
 ---
 
 ### Non-problématique ?
 
 #### « Comment permettre l’impression 3D de l'étain avec un équipement destiné à l’impression plastique alors que ces matériaux impliquent des contraintes très différentes ? »
+
+
+---
+
+## Vision globale du Projet
+démarche, planification, outils
 
 ---
 
@@ -102,7 +120,7 @@ Contexte du projet
 
 ---
 
-### Analyse et résultats
+## Analyse et résultats
 
 ![](2020-06-17-13-32-03.png)
 
