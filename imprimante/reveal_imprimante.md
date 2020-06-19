@@ -6,18 +6,28 @@ logoImg: "gsi.png"
 slideNumber: true
 title: "Imprimante Étain ☺"
 preloadIframes: true
+viewDistance: 10
 ---
 
 ## Soutenance finale
 ### groupe imprimante étain
 #### Projet industriel ENSGSI 1AI
 
+logo eiigm + gsi
 
 ---
 
 ### Présentation du projet et demande des industriels
 
 ![](2020-06-17-13-14-12.png)
+
+---
+
+schéma partis prenantes
+
+---
+
+### Schéma des objectifs
 
 
 ---
@@ -72,9 +82,7 @@ preloadIframes: true
 
 ---
 
-<link rel="preload" href="https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/chariot293_1_light.gltf" as="document">
-
-<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/chariot293_1_light.gltf" -->
+<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/chariot_viewer.html" -->
 
 ---
 
@@ -89,9 +97,8 @@ preloadIframes: true
 
 ---
 
-<link rel="preload" href="https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/printer.gltf" as="document">
 
-<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/printer.gltf" -->
+<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/printer_viewer.html" -->
 
 ---
 

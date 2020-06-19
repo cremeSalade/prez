@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>BabylonJS Viewer - 3D Printer</title>
+        <style>
+            .myContainer {
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+    </head>
+
+    <body>
+      <div class="myContainer">
+        <babylon extends="default, shadowDirectionalLight" templates.nav-bar.params.hide-logo="true" templates.main.params.fill-screen="true">
+
+            <scene glow="true">
+            </scene>
+            <lab>
+                <environment-main-color r="0.5" g="0.2" b="0.2"></environment-main-color>
+            </lab>
+
+            <model url="https://cremesalade.github.io/prez/imprimante/chariot293_1_light.gltf">
+                <animation auto-start="true"></animation>
+            </model>
+        </babylon>
+     </div>
+     <script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
+    </body>
+
+</html>
+<html>
+
+</html>
+
