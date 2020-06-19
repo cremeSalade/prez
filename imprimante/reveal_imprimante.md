@@ -9,15 +9,17 @@ preloadIframes: false
 viewDistance: 3
 ---
 
-## Soutenance finale
-### groupe imprimante étain
-#### Projet industriel ENSGSI 1AI
+### Soutenance finale
+#### groupe imprimante étain
+##### Projet industriel ENSGSI 1AI
 
-![](2020-06-19-12-15-51.png)
+![](2020-06-19-12-15-51.png =500x)
 
+<small>
 Tuteur pédagogique : Aala Hassan
-Tuteur Industriel : David Horwat
 
+Tuteur Industriel : David Horwat
+</small>
 ---
 
 ### Sommaire
@@ -230,3 +232,4 @@ https://www.researchgate.net/publication/225005870_Surface_tension_of_liquid_met
 
 
 # FIN !
+Merci pour votre attention
