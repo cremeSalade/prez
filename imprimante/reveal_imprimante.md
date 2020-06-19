@@ -15,12 +15,17 @@ viewDistance: 3
 
 ![](EEIGM.png)
 
+
+
 ---
 
 ### Sommaire
  - Contexte du projet
  - Problématisation
- - Résultats
+ - Vision globale
+ - Analyse et résultats
+ - Conclusions et perspectives
+ - Retours d'expérience
 
 ---
 
@@ -69,11 +74,6 @@ viewDistance: 3
 ### Chassis de l'imprimante
 ![](2020-06-19-10-40-48.png =700x)
 
---
-
-### Contraintes du projet
-![](2020-06-17-13-17-00.png)
-
 
 --
 
@@ -84,6 +84,8 @@ viewDistance: 3
 --
 
 ## Formulation
+
+
 
 --
 
@@ -133,15 +135,31 @@ viewDistance: 3
 
 --
 
-Tests de dépôt
-Tests  des supports
+### Test des supports
 
-![](2020-06-17-13-32-03.png)
+![](2020-06-19-11-55-08.png)
+
+--
+
+### Tests de dépôt
+
+![](2020-06-17-13-32-03.png =800x)
 
 
 --
 
-Tension superficielle
+### Tension superficielle
+
+![](2020-06-19-11-43-23.png)
+
+
+
+
+<aside class="notes">
+sources :
+https://www.sciencedirect.com/science/article/abs/pii/S0021979702985899
+https://www.researchgate.net/publication/225005870_Surface_tension_of_liquid_metals_and_alloys_-_Recent_developments
+</aside>
 
 --
 
@@ -190,6 +208,8 @@ Tension superficielle
 ---
 
 ### Retours d'expériences
+
+note : mettre photo
 
 ---
 
