@@ -26,23 +26,20 @@ viewDistance: 3
 
 ## Contexte du projet
 
----
+--
 
-Contexte du projet
 #### Présentation du projet et demande des industriels
 
 ![](2020-06-17-13-14-12.png)
 
----
+--
 
-Contexte du projet
 ### Parties Prenantes
 
 ![](2020-06-19-09-42-28.png =500x)
 
----
+--
 
-Contexte du projet
 ### Objectifs
 
 ![](2020-06-19-09-45-38.png)
@@ -52,42 +49,42 @@ Contexte du projet
 ## Problématisation
 
 
----
+--
 
 ### Analyse de l'existant
 
 
----
+--
 
 ### Bibliographie
-![](2020-06-19-10-49-26.png)
+![](2020-06-19-10-49-26.png =700x)
 
----
+--
 
 ### Chassis de l'imprimante
-![](2020-06-19-10-40-48.png)
+![](2020-06-19-10-40-48.png =700x)
 
----
+--
 
 ### Contraintes du projet
 ![](2020-06-17-13-17-00.png)
 
 
----
+--
 
 ### Contraintes de l'étain
 ![](2020-06-19-10-38-07.png)
 
 
----
+--
 
 ## Formulation
 
----
+--
 
 ### Non-problématique ?
 
-#### « Comment permettre l’impression 3D de l'étain avec un équipement destiné à l’impression plastique alors que ces matériaux impliquent des contraintes très différentes ? »
+#### « Comment choisir les éléments de l’imprimante permettant d’imprimer de l'étain sans avoir à tester chacun d’eux ? »
 
 
 ---
@@ -95,23 +92,21 @@ Contexte du projet
 ## Vision globale du Projet
 démarche, planification, outils
 
----
+--
 
 ### Planification du projet
-
 
 ![](2020-06-17-13-25-16.png)
 
 
----
+--
 
 ### Choix des composants
 
 ![](2020-06-17-13-26-16.png)
 
 
-
----
+--
 
 ### Assemblage
 
@@ -124,7 +119,7 @@ démarche, planification, outils
 
 ![](2020-06-17-13-32-03.png)
 
----
+--
 
 
 ### Résultats intermédiaires
@@ -134,31 +129,31 @@ démarche, planification, outils
  - Tests sur le chariot
 
 
----
+--
 
 <!-- .slide: data-background-iframe = "https://cremesalade.github.io/prez/imprimante/chariot_viewer.html" -->
 
----
+--
 
 
 ### L'imprimante de loritz
 
 ![](2020-06-17-13-33-42.png)
 
----
+--
 
 ### Modèle 3D
 
----
+--
 
 
 <!-- .slide: data-background-iframe = "https://cremesalade.github.io/prez/imprimante/printer_viewer.html" -->
 
----
+--
 
 ### Simulation de mécanique des fluides
 
----
+--
 
 #### Débit fort
 
@@ -166,7 +161,7 @@ démarche, planification, outils
 <source src="https://cremesalade.github.io/prez/imprimante/s1.mp4" type="video/mp4">
 </video>
 
----
+--
 
 #### Débit résonnable
 
