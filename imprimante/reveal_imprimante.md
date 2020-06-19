@@ -13,9 +13,10 @@ viewDistance: 3
 ### groupe imprimante étain
 #### Projet industriel ENSGSI 1AI
 
-![](EEIGM.png)
+![](2020-06-19-12-15-51.png)
 
-
+Tuteur pédagogique : Aala Hassan
+Tuteur Industriel : David Horwat
 
 ---
 
@@ -38,7 +39,7 @@ viewDistance: 3
 
 #### Présentation du projet et demande des industriels
 
-![](2020-06-17-13-14-12.png)
+![](2020-06-19-12-15-51.png)
 
 --
 
@@ -78,6 +79,7 @@ viewDistance: 3
 --
 
 ### Contraintes de l'étain
+
 ![](2020-06-19-10-38-07.png)
 
 
@@ -85,7 +87,7 @@ viewDistance: 3
 
 ## Formulation
 
-
+![](2020-06-19-12-31-19.png)
 
 --
 
@@ -99,7 +101,8 @@ viewDistance: 3
 ## Vision globale du Projet
  - Planification
  - Démarche
- - Outils
+ - Assemblage
+ - Choix de conception
 
 --
 
@@ -118,6 +121,12 @@ viewDistance: 3
 --
 
 ### Assemblage
+
+![](2020-06-19-12-28-16.png)
+
+--
+
+### Choix de conception
 
 ![](2020-06-17-13-29-09.png)
 
@@ -165,6 +174,8 @@ https://www.researchgate.net/publication/225005870_Surface_tension_of_liquid_met
 
 ### Modèle du chariot
 
+![](2020-06-19-12-26-51.png)
+
 --
 
 <!-- .slide: data-background-iframe = "https://cremesalade.github.io/prez/imprimante/chariot_viewer.html" -->
@@ -173,6 +184,8 @@ https://www.researchgate.net/publication/225005870_Surface_tension_of_liquid_met
 --
 
 ### Modèle de l'imprimante
+
+![](2020-06-19-12-25-31.png)
 
 --
 
@@ -209,7 +222,7 @@ https://www.researchgate.net/publication/225005870_Surface_tension_of_liquid_met
 
 ### Retours d'expériences
 
-note : mettre photo
+☺
 
 ---
 
