@@ -16,10 +16,11 @@ viewDistance: 3
 ![](2020-06-19-12-15-51.png =500x)
 
 <small>
-Tuteur pédagogique : Aala Hassan
+Tuteur pédagogique : Alla Hassan
 
 Tuteur Industriel : David Horwat
 </small>
+
 ---
 
 ### Sommaire
