@@ -13,7 +13,7 @@ viewDistance: 3
 ### groupe imprimante étain
 #### Projet industriel ENSGSI 1AI
 
-logo eiigm + gsi
+![](EEIGM.png)
 
 ---
 
