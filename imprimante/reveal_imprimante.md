@@ -23,12 +23,15 @@ viewDistance: 3
 
 ---
 
-schéma partis prenantes
+### Parties Prenantes
+
+![](2020-06-19-09-42-28.png)
 
 ---
 
-### Schéma des objectifs
+### Objectifs
 
+![](2020-06-19-09-45-38.png)
 
 ---
 
@@ -38,6 +41,8 @@ schéma partis prenantes
 
 
 ---
+
+### Non-problématique ?
 
 #### « Comment permettre l’impression 3D de l'étain avec un équipement destiné à l’impression plastique alors que ces matériaux impliquent des contraintes très différentes ? »
 
