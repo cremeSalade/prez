@@ -18,6 +18,13 @@ viewDistance: 3
 ---
 
 ### Sommaire
+ - Contexte du projet
+ - Problématisation
+ - Résultats
+
+---
+
+## Contexte du projet
 
 ---
 
@@ -42,7 +49,23 @@ Contexte du projet
 
 ---
 
-### Problématisation
+## Problématisation
+
+---
+
+### Analyse de l'existant
+
+---
+
+### Bibliographie
+
+
+---
+
+### Chassis de l'imprimante
+
+
+---
 
 ![](2020-06-17-13-17-00.png)
 
