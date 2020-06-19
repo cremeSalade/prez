@@ -17,18 +17,25 @@ viewDistance: 3
 
 ---
 
-### Présentation du projet et demande des industriels
+### Sommaire
+
+---
+
+Contexte du projet
+#### Présentation du projet et demande des industriels
 
 ![](2020-06-17-13-14-12.png)
 
 ---
 
+Contexte du projet
 ### Parties Prenantes
 
-![](2020-06-19-09-42-28.png)
+![](2020-06-19-09-42-28.png =500x)
 
 ---
 
+Contexte du projet
 ### Objectifs
 
 ![](2020-06-19-09-45-38.png)
