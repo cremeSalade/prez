@@ -207,7 +207,7 @@ https://www.researchgate.net/publication/225005870_Surface_tension_of_liquid_met
 
 --
 
-#### Débit résonnable
+#### Débit raisonnable
 
 <video controls loop height="500">
 <source src="https://cremesalade.github.io/prez/imprimante/s2.mp4" type="video/mp4">
