@@ -1,11 +1,11 @@
 ---
-theme : "night"
+theme : "white"
 transition: "slide"
 highlightTheme: "monokai"
 logoImg: "gsi.png"
 slideNumber: true
 title: "Imprimante Étain ☺"
-preloadIframes: true
+preloadIframes: false
 viewDistance: 3
 ---
 
@@ -25,6 +25,9 @@ viewDistance: 3
 ---
 
 ## Contexte du projet
+ - Présentation
+ - Parties prenantes
+ - Objectifs
 
 --
 
@@ -47,7 +50,9 @@ viewDistance: 3
 ---
 
 ## Problématisation
-
+ - Analyse de l'existant
+ - Contraintes
+ - Formulation
 
 --
 
@@ -90,7 +95,9 @@ viewDistance: 3
 ---
 
 ## Vision globale du Projet
-démarche, planification, outils
+ - Planification
+ - Démarche
+ - Outils
 
 --
 
@@ -116,33 +123,38 @@ démarche, planification, outils
 ---
 
 ## Analyse et résultats
-
-![](2020-06-17-13-32-03.png)
-
---
-
-
-### Résultats intermédiaires
  - Tests  des supports
  - Tests de dépôt
  - Tension superficielle
- - Tests sur le chariot
+ - Modèle du chariot
+ - Modèle de l'imprimante
+ - Simulation
 
+
+--
+
+Tests de dépôt
+Tests  des supports
+
+![](2020-06-17-13-32-03.png)
+
+
+--
+
+Tension superficielle
+
+--
+
+### Modèle du chariot
 
 --
 
 <!-- .slide: data-background-iframe = "https://cremesalade.github.io/prez/imprimante/chariot_viewer.html" -->
 
---
-
-
-### L'imprimante de loritz
-
-![](2020-06-17-13-33-42.png)
 
 --
 
-### Modèle 3D
+### Modèle de l'imprimante
 
 --
 
