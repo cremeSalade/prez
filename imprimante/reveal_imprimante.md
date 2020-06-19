@@ -6,7 +6,7 @@ logoImg: "gsi.png"
 slideNumber: true
 title: "Imprimante Étain ☺"
 preloadIframes: true
-viewDistance: 10
+viewDistance: 3
 ---
 
 ## Soutenance finale
@@ -82,7 +82,7 @@ schéma partis prenantes
 
 ---
 
-<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/chariot_viewer.html" -->
+<!-- .slide: data-background-iframe = "https://cremesalade.github.io/prez/imprimante/chariot_viewer.html" -->
 
 ---
 
@@ -98,7 +98,7 @@ schéma partis prenantes
 ---
 
 
-<!-- .slide: data-background-iframe = "https://gltf-viewer.donmccurdy.com#kiosk=true&amp;model=https://cremesalade.github.io/prez/imprimante/printer_viewer.html" -->
+<!-- .slide: data-background-iframe = "https://cremesalade.github.io/prez/imprimante/printer_viewer.html" -->
 
 ---
 
